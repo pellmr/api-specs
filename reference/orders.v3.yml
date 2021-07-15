@@ -689,7 +689,7 @@ paths:
               meta:
                 type: object
           examples:
-            "All failure response. http status code for the entire batch request to roll up to the most severe individual failure to the whole request.": |-
+            Example 1: |-
               {
                   "data": [
                   ],
